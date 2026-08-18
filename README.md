@@ -3,7 +3,7 @@
 Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
 as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
 
-[Clique aqui](https://github.com/gubarbosa192-png/CSS-Developer/dio-trilha-css-desafio) para acessar o resultado final da Landing Page criada a partir do desafio!
+[Clique aqui](https://github.com/gubarbosa192-png/CSS-Developer.git) para acessar o resultado final da Landing Page criada a partir do desafio!
 
 
 Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
